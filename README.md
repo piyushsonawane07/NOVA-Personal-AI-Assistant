@@ -1,9 +1,17 @@
-# NOVA — Personal Assistant (CLI)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d6019c89-d910-484d-8108-6b9d257c2def" width="360" alt="logo-nova" />
+</p>
+
+
+<h1 align="center">Personal Assistant </h1>
+
 
 An LLM-powered personal assistant CLI built with LangChain(Agents). 
 - Schedule Google Calendar events (with conflict checks + availability suggestions)
 - Draft and send emails via Gmail
 - Ask for **human approval** before performing sensitive actions (sending emails / creating calendar events)
+
+<img width="1716" height="325" alt="Screenshot 2026-01-19 at 2 59 38 PM" src="https://github.com/user-attachments/assets/0e508c6b-c07e-4875-bbce-9930e395518e" />
 
 ## Features
 
