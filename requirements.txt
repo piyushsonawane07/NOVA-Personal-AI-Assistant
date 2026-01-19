@@ -1,0 +1,10 @@
+langchain
+langchain[openai]
+langchain-ollama
+python-dotenv
+google-auth
+google-auth-oauthlib
+google-api-python-client
+pyfiglet
+rich
+typer
